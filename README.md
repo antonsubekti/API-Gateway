@@ -3,7 +3,9 @@
 PELAKSANAAN PEKERJAAN PENGEMBANGAN INTEGRASI APLIKASI BERBASIS API GATEWAY T.A. 2020
 
 Nilai Kontrak      : Rp 87.460.435.120,-
+
 Periode Pekerjaan  : 20 Maret 2020 – 31 Maret 2021
+
 Ruang Lingkup      : 1. Pengadaan Perangkat Keras IT (Server, Appliance DDoS Protection dan Perangkat Pendukung) di Data Center Polri
                      2. Pengadaan Data Processing Module, API Platform Module & Data Serialization Module
                      3. Instalasi Perangkat Keras & Lunak
